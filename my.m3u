@@ -146,7 +146,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",73-CCTV12
 http://39.134.65.162/PLTV/88888888/224/3221225518/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",74-山东教育
-http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
+http://111.40.205.79/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",75-CCTV14
 http://39.134.65.162/PLTV/88888888/224/3221225516/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",76-CCTV15
