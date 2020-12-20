@@ -48,7 +48,7 @@ NewTV超级综艺,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/22
 安徽卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
 河北卫视,http://183.207.249.9/PLTV/2/224/3221226075/index.m3u8
 江西卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-湖北卫视,http://182.138.51.71/PLTV/88888920/224/3221225536/index.m3u8
+湖北卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 海南卫视,http://39.134.65.162/PLTV/88888888/224/3221225530/index.m3u8
 陕西卫视,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226079/index.m3u8
 东南卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226406/1.m3u8
