@@ -1,5 +1,5 @@
 重庆卫视,http://219.153.252.50/PLTV/88888888/224/3221225549/chunklist.m3u8
-重庆新闻,http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
+重庆新闻,http://182.138.51.71/PLTV/88888920/224/3221225551/index.m3u8
 重庆影视,http://219.153.252.50/PLTV/88888888/224/3221225638/chunklist.m3u8
 重庆都市,http://219.153.252.50/PLTV/88888888/224/3221225640/chunklist.m3u8
 重庆时尚,http://219.153.252.50/PLTV/88888888/224/3221225636/chunklist.m3u8
@@ -78,7 +78,7 @@ CCTV-F,https://livefr.cgtn.com/200f/prog_index.m3u8
 中国交通频道,http://tv.lanjingfm.com/cctbn/beijing.m3u8
 CCTV5+,http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
 NewTV军事评论,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225926/1.m3u8
-新疆卫视,http://39.134.65.162/PLTV/88888888/224/3221225582/index.m3u8
+新疆卫视,http://182.138.51.71/PLTV/88888920/224/3221225608/index.m3u8
 西藏卫视,http://117.169.120.142:8080/live/xizangstv/.m3u8
 NewTV军旅剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225923/1.m3u8
 NewTV动作电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
