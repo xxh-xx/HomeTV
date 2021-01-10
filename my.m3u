@@ -154,7 +154,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-F
 https://livefr.cgtn.com/200f/prog_index.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通频道
-http://tv.lanjingfm.com/cctbn/beijing.m3u8
+https://tv.lanjingfm.com/cctbn/chongqing.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军事评论
@@ -169,3 +169,7 @@ http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225923/1.m3u
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",济公
+http://stream.guihet.com/t/youkulive.php?id=8108859
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",西游记
+http://stream.guihet.com/t/youkulive.php?id=8108856
