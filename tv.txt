@@ -42,7 +42,7 @@ NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/
 天津卫视,http://39.134.65.162/PLTV/88888888/224/3221225528/index.m3u8
 贵州卫视,http://39.134.65.162/PLTV/88888888/224/3221225576/index.m3u8
 四川卫视,http://117.169.120.135:8080/live/sichuanstv/1.m3u8?icpid=88888929&from=79102&hms_devid=432,488&online=1581219553&vqe=3
-云南卫视,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/yunnanstv/1.m3u8
+云南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225853/index.m3u8
 广西卫视,http://39.134.65.162/PLTV/88888888/224/3221225498/index.m3u8
 黑龙江卫视,http://39.135.33.12/PLTV/77777777/224/3221226564/index.m3u8
 安徽卫视,http://219.153.252.50/PLTV/88888888/224/3221225534/chunklist.m3u8
@@ -56,7 +56,7 @@ NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/
 辽宁卫视,http://39.134.65.162/PLTV/88888888/224/3221225499/index.m3u8
 内蒙古卫视,http://117.169.120.140:8080/live/neimenggustv/.m3u8
 湖南卫视,http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
-广东卫视,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdguangdongstv/1.m3u8
+广东卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226895/index.m3u8
 河南卫视,http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
 山西卫视,http://117.169.120.140:8080/live/shanxistv/.m3u8
 NewTV金牌综艺,http://121.31.30.91:8081/ysten-business/live/saishijx/1.m3u8
@@ -71,7 +71,7 @@ NewTV金牌综艺,http://121.31.30.91:8081/ysten-business/live/saishijx/1.m3u8
 CCTV10,http://117.169.120.140:8080/live/cctv-10/.m3u8
 CCTV11,http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
 CCTV12,http://39.134.65.162/PLTV/88888888/224/3221225518/index.m3u8
-山东教育,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/shandongjy/1.m3u8
+山东教育,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225873/index.m3u8
 CCTV14,http://39.134.65.162/PLTV/88888888/224/3221225516/index.m3u8
 CCTV15,http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
 CCTV-F,https://livefr.cgtn.com/200f/prog_index.m3u8
