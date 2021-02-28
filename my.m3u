@@ -169,7 +169,3 @@ http://121.31.30.91:8081/ysten-business/live/junlvjc/1.m3u8
 http://121.31.30.91:8081/ysten-business/live/dongzuody/1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://39.135.33.12/PLTV/77777777/224/3221226610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",济公
-http://stream.guihet.com/t/youkulive.php?id=8108859
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",西游记
-http://stream.guihet.com/t/youkulive.php?id=8108856
