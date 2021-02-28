@@ -83,5 +83,3 @@ NewTV军事评论,http://121.31.30.91:8081/ysten-business/live/junshipl/1.m3u8
 NewTV军旅剧场,http://121.31.30.91:8081/ysten-business/live/junlvjc/1.m3u8
 NewTV动作电影,http://121.31.30.91:8081/ysten-business/live/dongzuody/1.m3u8
 CCTV17,http://39.135.33.12/PLTV/77777777/224/3221226610/index.m3u8
-济公,http://stream.guihet.com/t/youkulive.php?id=8108859
-西游记,http://stream.guihet.com/t/youkulive.php?id=8108856
