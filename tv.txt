@@ -8,13 +8,13 @@
 重庆少儿,http://219.153.252.50/PLTV/88888888/224/3221225646/chunklist.m3u8
 重庆科教,http://219.153.252.50/PLTV/88888888/224/3221225632/chunklist.m3u8
 重庆生活资讯,http://219.153.252.50/PLTV/88888888/224/3221225629/chunklist.m3u8
-重庆汽摩,http://219.153.252.50/PLTV/88888888/224/3221225642/chunklist.m3u8
+重庆汽摩,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000072.m3u8
 IPTV5＋,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
 NewTV明星大片,http://121.31.30.91:8081/ysten-business/live/mingxingdp/1.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 NewTV家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 NewTV农业致富,http://121.31.30.91:8081/ysten-business/live/nongyezf/1.m3u8
-CCTV1,http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
+CCTV1,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000133.m3u8
 CCTV2,http://117.169.120.140:8080/live/cctv-2/.m3u8
 CCTV3,http://117.169.120.140:8080/live/cctv-3/.m3u8
 CCTV4,http://117.169.120.140:8080/live/cctv-4/.m3u8
@@ -34,7 +34,7 @@ NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/
 NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 江苏卫视,http://39.134.65.162/PLTV/88888888/224/3221225568/index.m3u8
-浙江卫视,http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8
+浙江卫视,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000143.m3u8
 东方卫视,http://39.135.33.12/PLTV/77777777/224/3221226554/index.m3u8
 深圳卫视,http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8
 北京卫视,http://39.135.33.12/PLTV/77777777/224/3221226544/index.m3u8
@@ -57,7 +57,7 @@ NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/
 内蒙古卫视,http://117.169.120.140:8080/live/neimenggustv/.m3u8
 湖南卫视,http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
 广东卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226895/index.m3u8
-河南卫视,http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
+河南卫视,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000312.m3u8
 山西卫视,http://117.169.120.140:8080/live/shanxistv/.m3u8
 NewTV金牌综艺,http://121.31.30.91:8081/ysten-business/live/saishijx/1.m3u8
 兵团卫视,http://222.82.234.246:1935/live/weishi.stream/playlist.m3u8
