@@ -2,25 +2,25 @@
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",﻿重庆卫视
 http://39.135.33.12/PLTV/77777777/224/3221226586/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆新闻
-http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
+http://39.135.253.25/PLTV/88888888/224/3221230071/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆影视
-http://219.153.252.50/PLTV/88888888/224/3221225638/chunklist.m3u8
+http://39.135.253.10/PLTV/88888888/224/3221230072/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆都市
-http://219.153.252.50/PLTV/88888888/224/3221225640/chunklist.m3u8
+http://39.135.253.11/PLTV/88888888/224/3221230000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆时尚
-http://219.153.252.50/PLTV/88888888/224/3221225636/chunklist.m3u8
+http://39.135.253.15/PLTV/88888888/224/3221229998/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆文体娱乐
-http://219.153.252.50/PLTV/88888888/224/3221225630/chunklist.m3u8
+http://39.135.253.31/PLTV/88888888/224/3221230162/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆公共农村
-http://219.153.252.50/PLTV/88888888/224/3221225626/chunklist.m3u8
+http://39.135.253.45/PLTV/88888888/224/3221230080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆少儿
-http://219.153.252.50/PLTV/88888888/224/3221225646/chunklist.m3u8
+http://39.135.253.10/PLTV/88888888/224/3221230091/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆科教
-http://219.153.252.50/PLTV/88888888/224/3221225632/chunklist.m3u8
+http://39.135.253.27/PLTV/88888888/224/3221230087/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆生活资讯
-http://219.153.252.50/PLTV/88888888/224/3221225629/chunklist.m3u8
+http://39.135.253.35/PLTV/88888888/224/3221230015/index.m3u8
 #EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="地方",重庆汽摩
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000072.m3u8
+http://39.135.253.47/PLTV/88888888/224/3221230076/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="地方",IPTV5+
 http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV明星大片
@@ -32,7 +32,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV农业致富
 http://121.31.30.91:8081/ysten-business/live/nongyezf/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000133.m3u8
+http://39.135.253.25/PLTV/88888888/224/3221229916/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://117.169.120.140:8080/live/cctv-2/.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
@@ -72,7 +72,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://39.134.65.162/PLTV/88888888/224/3221225568/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000143.m3u8
+http://39.135.253.11/PLTV/88888888/224/3221229981/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://39.135.33.12/PLTV/77777777/224/3221226554/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
@@ -118,7 +118,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226895/index.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000312.m3u8
+http://111.26.225.22/PLTV/2/224/3221225575/index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://117.169.120.140:8080/live/shanxistv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV金牌综艺
