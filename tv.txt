@@ -10,10 +10,10 @@
 重庆生活资讯,http://39.135.253.35/PLTV/88888888/224/3221230015/index.m3u8
 重庆汽摩,http://39.135.253.47/PLTV/88888888/224/3221230076/index.m3u8
 IPTV5＋,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
-NewTV明星大片,http://121.31.30.91:8081/ysten-business/live/mingxingdp/1.m3u8
+NewTV明星大片,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 NewTV家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-NewTV农业致富,http://121.31.30.91:8081/ysten-business/live/nongyezf/1.m3u8
+NewTV农业致富,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227588/index.m3u8
 CCTV1,http://39.135.253.25/PLTV/88888888/224/3221229916/index.m3u8
 CCTV2,http://117.169.120.140:8080/live/cctv-2/.m3u8
 CCTV3,http://117.169.120.140:8080/live/cctv-3/.m3u8
@@ -28,7 +28,7 @@ CCTV13,http://39.135.33.12/PLTV/77777777/224/3221226580/index.m3u8
 澳亚卫视,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-NewTV精品大剧,http://121.31.30.91:8081/ysten-business/live/jdaju/1.m3u8
+NewTV精品大剧,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
 NewTV精品纪录,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226332/1.m3u8
 NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -59,7 +59,7 @@ NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/
 广东卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 河南卫视,http://111.26.225.22/PLTV/2/224/3221225575/index.m3u8
 山西卫视,http://117.169.120.140:8080/live/shanxistv/.m3u8
-NewTV金牌综艺,http://121.31.30.91:8081/ysten-business/live/saishijx/1.m3u8
+NewTV金牌综艺,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
 兵团卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 优漫卡通,http://39.134.65.162/PLTV/88888888/224/3221225556/index.m3u8
 卡酷动画,http://39.134.65.162/PLTV/88888888/224/3221225562/index.m3u8
@@ -77,9 +77,9 @@ CCTV15,http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
 CCTV-F,https://livefr.cgtn.com/200f/prog_index.m3u8
 中国交通频道,https://tv.lanjingfm.com/cctbn/chongqing.m3u8
 CCTV5+,http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
-NewTV军事评论,http://121.31.30.91:8081/ysten-business/live/junshipl/1.m3u8
+NewTV军事评论,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
 新疆卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
 西藏卫视,http://117.169.120.142:8080/live/xizangstv/.m3u8
-NewTV军旅剧场,http://121.31.30.91:8081/ysten-business/live/junlvjc/1.m3u8
-NewTV动作电影,http://121.31.30.91:8081/ysten-business/live/dongzuody/1.m3u8
+NewTV军旅剧场,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
+NewTV动作电影,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
 CCTV17,http://39.135.33.12/PLTV/77777777/224/3221226610/index.m3u8
