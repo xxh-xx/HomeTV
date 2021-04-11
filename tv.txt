@@ -75,7 +75,7 @@ CCTV12,http://39.134.65.162/PLTV/88888888/224/3221225518/index.m3u8
 CCTV14,http://39.134.65.162/PLTV/88888888/224/3221225516/index.m3u8
 CCTV15,http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
 CCTV-F,https://livefr.cgtn.com/200f/prog_index.m3u8
-中国交通频道,https://tv.lanjingfm.com/cctbn/chongqing.m3u8
+中国交通频道,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
 CCTV5+,http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
 NewTV军事评论,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
 新疆卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
@@ -83,6 +83,3 @@ NewTV军事评论,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/32212
 NewTV军旅剧场,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
 NewTV动作电影,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
 CCTV17,http://39.135.33.12/PLTV/77777777/224/3221226610/index.m3u8
-重庆新闻,
-重庆影视,
-重庆都市,
