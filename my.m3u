@@ -12,13 +12,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225762/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆文体娱乐
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆公共农村
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆少儿
 http://stream.guihet.com/t/youkulive.php?id=8108856
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆科教
 http://stream.guihet.com/t/youkulive.php?id=8121000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆生活资讯
-http://stream.guihet.com/t/youkulive.php?id=8120412
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
 #EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="地方",重庆汽摩
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="地方",IPTV5+
@@ -46,7 +46,7 @@ http://117.169.120.140:8080/live/cctv-6/.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://39.134.65.162/PLTV/88888888/224/3221225489/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230737/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://39.134.65.162/PLTV/88888888/224/3221225519/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
@@ -154,7 +154,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-F
 https://livefr.cgtn.com/200f/prog_index.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通频道
-http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
+https://tv.lanjingfm.com/cctbn/chongqing.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军事评论
