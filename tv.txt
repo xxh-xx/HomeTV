@@ -18,14 +18,14 @@ CCTV1,http://111.26.225.22/PLTV/2/224/3221225640/index.m3u8
 CCTV2,http://117.169.120.140:8080/live/cctv-2/.m3u8
 CCTV3,http://117.169.120.140:8080/live/cctv-3/.m3u8
 CCTV4,http://117.169.120.140:8080/live/cctv-4/.m3u8
-CCTV5,http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
+CCTV5,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
 CCTV6,http://117.169.120.140:8080/live/cctv-6/.m3u8
 CCTV7,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226234/1.m3u8
 CCTV8,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
 CCTV9,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/1.m3u8
 CCTV13,http://39.134.155.143/PLTV/88888888/224/3221225597/index.m3u8
 凤凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
-澳亚卫视,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 NewTV精品大剧,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
